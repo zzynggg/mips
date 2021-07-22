@@ -1,5 +1,7 @@
 # mips
+
 MIPS Assembly Language
+
 Task 1, Grade: 20/20 HD
 
 Task 2, Grade: 20/20 HD
