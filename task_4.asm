@@ -1,6 +1,7 @@
 # author: Yong Zi Ying
 # This task is to translate the python code into MIPS program faithfully
-# Interview 3 Task 4
+# Task 4
+# Grade: 27/30 HD
 
 
 		.globl bubble_sort

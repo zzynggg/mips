@@ -1,6 +1,7 @@
 # author: Yong Zi Ying
 # This task is to translate the python code into MIPS program faithfully
-# Interview 3 Task 3
+# Task 3
+# Grade: 17.5/20 HD
 
 
 		.globl get_minimum

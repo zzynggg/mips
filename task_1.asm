@@ -1,6 +1,7 @@
-# author: Yong Zi Ying
+# Author: Yong Zi Ying
 # This task is to translate the python code into MIPS program faithfully
-# Interview 3 Task 1
+# Task 1
+# Grade: 20/20 HD
 		
 										
 	.data
